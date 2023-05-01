@@ -1,4 +1,4 @@
-### Olá 👋
+### Olá 
 
 <!--
 **Jerry-523/Jerry-523** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-https://github-readme-stats.vercel.app/apiJerry-523=anuraghazra
+
