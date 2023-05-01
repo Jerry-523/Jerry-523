@@ -1,4 +1,5 @@
-### Hello 👨🏾‍💻 Mate 👋
+### 👨🏾‍💻 Hello Mate 👋
+#### Péricles here 🙂
 
 [![Péricles's GitHub stats](https://github-readme-stats.vercel.app/api?username=jerry-523&show_icons=true&theme=tokyonight)](https://github.com/jerry-523/github-readme-stats)
 
@@ -18,4 +19,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+#### Let's code 👨🏾‍💻
