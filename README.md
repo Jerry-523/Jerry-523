@@ -1,4 +1,5 @@
-### Olá 
+### Olá
+[ ! [Estatísticas GitHub de Anurag] ( https://github-readme-stats.vercel.app/api?username=Jerry-523 ) ] ( https://github.com/Anuraghazra/github-readme-stats )
 
 <!--
 **Jerry-523/Jerry-523** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
