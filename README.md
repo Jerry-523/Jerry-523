@@ -1,8 +1,5 @@
-### Olá
+[![Péricles's GitHub stats](https://github-readme-stats.vercel.app/api?username=jerry-523)](https://github.com/jerry-523/github-readme-stats)
 
-#### [Estatísticas GitHub de Péricles]
-
-(readme-stats.vercel.app/api?username=Jerry-523)
 <!--
 **Jerry-523/Jerry-523** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
 Here are some ideas to get you started:
