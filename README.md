@@ -1,8 +1,8 @@
-
+# hello🤖
 
 [![Péricles's GitHub stats](https://github-readme-stats.vercel.app/api?username=jerry-523&show_icons=true&theme=tokyonight)](https://github.com/jerry-523/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jerry-523&layout=compact)](https://github.com/jerry-523/github-readme-stats)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jerry-523&show_icons=true&theme=tokyonight&layout=compact)](https://github.com/jerry-523/github-readme-stats)
 <!--
