@@ -1,7 +1,7 @@
 ## 👨🏾‍💻 Hello Mate 👋
 ### Péricles here 🙂
 
-[![Péricles's GitHub stats](https://github-readme-stats.vercel.app/api?username=jerry-523&show_icons=true&theme=tokyonight)](https://github.com/jerry-523/github-readme-stats)
+[![Péricles's GitHub stats](https://github-readme-stats.vercel.app/api?username=jerry-523&show_icons=true&theme=tokyonight&include_all_commits)](https://github.com/jerry-523/github-readme-stats)
 
 
 
