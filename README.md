@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-https://github-readme-stats.vercel.app/api?Jerry-523=anuraghazra
+https://github-readme-stats.vercel.app/apiJerry-523=anuraghazra
