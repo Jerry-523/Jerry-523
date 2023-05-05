@@ -1,16 +1,11 @@
 ## 👨🏾‍💻 Hello Mate 👋
 ### Péricles here 🙂
 
-[![Péricles's GitHub stats](https://github-readme-stats.vercel.app/api?username=jerry-523&show_icons=true&theme=tokyonight&include_all_commits)](https://github.com/jerry-523/github-readme-stats)
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jerry-523&show_icons=true&theme=tokyonight&layout=compact)](https://github.com/jerry-523/github-readme-stats)
 <a href="https://github.com/jerry-523/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jerry-523&repo=github-readme-stats&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jerry-523&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/jerry-523/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jerry-523&repo=convoychat&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jerry-523&repo=convoychat" />
 </a>
 <!--
 **Jerry-523/Jerry-523** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
