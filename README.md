@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=jerry-523&label=PROFILE+VIEWS)
+
 ## 👨🏾‍💻 Hello Mate 👋
 ### Péricles here 🙂
 
