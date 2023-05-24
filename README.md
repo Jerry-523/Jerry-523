@@ -1,9 +1,9 @@
-![](https://komarev.com/ghpvc/?username=jerry-523&label=PROFILE+VIEWS)
+
 
 ## 👨🏾‍💻 Hello Mate 👋
 ### Péricles here 🙂
 
-
+![](https://komarev.com/ghpvc/?username=jerry-523&label=PROFILE+VIEWS)
 [![Péricles's GitHub stats](https://github-readme-stats.vercel.app/api?username=jerry-523&show_icons=true&theme=tokyonight&include_all_commits)](https://github.com/jerry-523/github-readme-stats)
 
 
