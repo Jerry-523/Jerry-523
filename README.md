@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Ferramentas e Tecnologias
+## Frameworks & Languages
 
-<img loading="lazy" src="https://external-content.duckduckgo.com/ip3/flutter.dev.ico" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/> 
+<img loading="lazy" src="https://external-content.duckduckgo.com/ip3/flutter.dev.ico" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/> <img loading="lazy" src="https://duckduckgo.com/i/4d837687.png" width="40" height="40"/> <img loading="lazy" src="[https://duckduckgo.com/i/4d837687.png](https://www.pngitem.com/pimgs/m/31-312155_c-programming-language-logo-hd-png-download.png)https://www.pngitem.com/pimgs/m/31-312155_c-programming-language-logo-hd-png-download.png" width="40" height="40"/>
 ### Let's coding together👨🏾‍💻
