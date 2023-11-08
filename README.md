@@ -24,4 +24,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Ferramentas e Tecnologias
+
+<img loading="lazy" src="https://storage.googleapis.com/cms-storage-bucket/6a07d8a62f4308d2b854.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/> 
 ### Let's coding together👨🏾‍💻
