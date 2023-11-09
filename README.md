@@ -24,5 +24,5 @@ Here are some ideas to get you started:
 -->
 ## Frameworks & Languages
 
-[![My Skills](https://skillicons.dev/icons?i=python,java,kotlin,flutter,c,react,postgres,sqlite,firebase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,kotlin,flutter,c,cpp,react,postgres,sqlite,firebase)](https://skillicons.dev)
 ### Let's coding together👨🏾‍💻
