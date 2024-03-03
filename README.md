@@ -27,5 +27,5 @@ Here are some ideas to get you started:
 
 ### Support☕
 ⚡ balmyscraper34@walletofsatoshi.com
-bc1q0raqfzjm2dxemp9eq5n2pcvn3q0rgll4zq6gk7
+ - [Bitcoin] bc1q0raqfzjm2dxemp9eq5n2pcvn3q0rgll4zq6gk7
 ### Let's coding together👨🏾‍💻
