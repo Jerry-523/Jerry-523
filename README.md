@@ -31,4 +31,4 @@ Here are some ideas to get you started:
 ₿ bc1q0raqfzjm2dxemp9eq5n2pcvn3q0rgll4zq6gk7
 
 
-Let's coding together👨🏾‍💻
+- Let's coding together👨🏾‍💻
