@@ -28,5 +28,4 @@ Here are some ideas to get you started:
 ## Support ☕
 ⚡ https://zbd.gg/jerrykb
 
-![image](https://github.com/Jerry-523/Jerry-523/assets/92488227/cf57c813-6d1c-4729-991a-36122783473c)
 
