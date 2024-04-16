@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 
 ## -
 
-## [   Support ☕](https://zbd.gg/embed/periclesborges)
+## [⚡   Support ☕](https://zbd.gg/embed/periclesborges)
