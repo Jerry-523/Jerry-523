@@ -24,6 +24,6 @@ Here are some ideas to get you started:
 
 [![My Skills](https://skillicons.dev/icons?i=python,java,kotlin,flutter,cpp,dart,postgres,sqlite,firebase,androidstudio&perline=5)](https://skillicons.dev)
 
-## -
+##  
 
 ## [⚡   Support ☕](https://zbd.gg/embed/periclesborges)
