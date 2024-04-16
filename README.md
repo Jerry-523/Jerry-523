@@ -28,6 +28,4 @@ Here are some ideas to get you started:
 ## Support ☕
 ⚡ https://zbd.gg/periclesborges
 
-<iframe width="372" height="623" src="https://zbd.gg/embed/periclesborges" frameborder="0" />
-
 
