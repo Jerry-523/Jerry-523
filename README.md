@@ -35,7 +35,7 @@
     <img width=25% src="https://github.com/Jerry-523/Jerry-523/assets/92488227/3a2a77bc-2386-48d6-b9fb-485ad2c59029" >
   </a>
 </p>
-⚡periclesborges@zbd.gg
+
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=120&section=footer"/>
