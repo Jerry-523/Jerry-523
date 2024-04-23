@@ -16,4 +16,5 @@
 
 
 
-## [₿⚡ Support ☕](https://zbd.gg/embed/periclesborges)
+## Support ⚡
+[ ₿ - Pay a coffee ☕](https://zbd.gg/embed/periclesborges)
