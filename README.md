@@ -8,7 +8,7 @@
 </div>
 
 
-##  Frameworks & Languages
+<h1 align="center">Frameworks & Languages</h1>
 <div align="center">
     <img width="49%" height="195px" src="https://skillicons.dev/icons?i=python,java,kotlin,flutter,cpp,dart,postgres,sqlite,firebase,androidstudio&perline=10"/>
 </div>
