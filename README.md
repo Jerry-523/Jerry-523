@@ -16,5 +16,4 @@
 
 
 
-## [⚡![image](https://github.com/Jerry-523/Jerry-523/assets/92488227/88219440-4694-4f45-92b8-501ab40e75a1)
-   Support ☕](https://zbd.gg/embed/periclesborges)
+## [⚡ Support ☕](https://zbd.gg/embed/periclesborges)
