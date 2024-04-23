@@ -4,14 +4,14 @@
 
 <div align="center">
     <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=jerry-523&show_icons=true&theme=tokyonight&include_all_commits)]https://github.com/jerry-523/github-readme-stats"/>
-    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerry-523&show_icons=true&theme=tokyonight&layout=compact&langs_count=8)]https://github.com/jerry-523/github-readme-stats" />
+    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerry-523&show_icons=true&theme=tokyonight&layout=compact&langs_count=8" />
 </div>
 
 ![](https://komarev.com/ghpvc/?username=jerry-523&label=PROFILE+VIEWS)
 
-<div align="center">
+
 [![Péricles's GitHub stats](https://github-readme-stats.vercel.app/api?username=jerry-523&show_icons=true&theme=tokyonight&include_all_commits)](https://github.com/jerry-523/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jerry-523&show_icons=true&theme=tokyonight&layout=compact&langs_count=8)](https://github.com/jerry-523/github-readme-stats)  
-</div>
+
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jerry-523&bg_color=191970&color=ffffff&line=1a5fb4&point=c01c28&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)  
 
