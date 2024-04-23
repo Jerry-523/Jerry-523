@@ -36,7 +36,7 @@
   </a>
 </p>
 <p align="center">
-  <a href="https://periclesborges@zbd.gg">⚡periclesborges@zbd.gg</a>
+  <a href="https://zbd.gg/periclesborges">LN⚡</a>
 </p>
 
 
