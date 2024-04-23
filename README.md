@@ -14,7 +14,7 @@
 </div>
 
 <center>
-    ![img](https://github-profile-trophy.vercel.app/?username=jerry-523&theme=tokyonight&row=2&no-bg-true&column=3&margin-h-15)](https://www.zbd.gg/jerrykb)
+    ![img](https://github-profile-trophy.vercel.app/?username=jerry-523&theme=tokyonight&row=2&no-bg-true&column=3&margin-h-15)
 </center>
 
 ##
@@ -26,7 +26,7 @@
 
 <h3 align="center">₿ [LN⚡] ₿</h3>
 
-![zbdgg](https://github.com/Jerry-523/Jerry-523/assets/92488227/04488877-aa2a-42d6-9cc7-b42f1623d3a3)
+![zbdgg](https://github.com/Jerry-523/Jerry-523/assets/92488227/04488877-aa2a-42d6-9cc7-b42f1623d3a3)](https://www.zbd.gg/jerrykb)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=120&section=footer"/>
 
