@@ -10,7 +10,7 @@
 
 <h2 align="center">Frameworks & Languages</h2>
 <div align="center">
-    <img width="55%" height="295px" src="https://skillicons.dev/icons?i=python,java,kotlin,flutter,cpp,dart,postgres,sqlite,firebase,androidstudio&perline=10"/>
+    <img width="100%" height="55px" src="https://skillicons.dev/icons?i=python,java,kotlin,flutter,cpp,dart,postgres,sqlite,firebase,androidstudio&perline=10"/>
 </div>
 
 <p align="center">
