@@ -36,7 +36,7 @@
   </a>
 </p>
 <p align="center">
-  <a href="https://zbd.gg/embed/periclesborges">Lightning Network ⚡</a>
+  <a href="https://periclesborges@zbd.gg">⚡periclesborges@zbd.gg</a>
 </p>
 
 
