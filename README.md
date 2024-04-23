@@ -12,7 +12,9 @@
 ##  Frameworks & Languages
 [![My Skills](https://skillicons.dev/icons?i=python,java,kotlin,flutter,cpp,dart,postgres,sqlite,firebase,androidstudio&perline=5)](https://skillicons.dev)
 
-
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/username=jerry-523&theme=dracula&row=2&no-bg-true&column=3&margin-h-15" />
+</p>
 
 
 ##
