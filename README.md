@@ -7,15 +7,15 @@
     <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerry-523&show_icons=true&theme=tokyonight&layout=compact&langs_count=8" />
 </div>
 
+
+
+##  Frameworks & Languages
+[![My Skills](https://skillicons.dev/icons?i=python,java,kotlin,flutter,cpp,dart,postgres,sqlite,firebase,androidstudio&perline=10)](https://skillicons.dev)
+
+
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=jerry-523&theme=tokyonight&row=2&no-bg-true&column=3&margin-h-15" />
 </p>
-
-##  Frameworks & Languages
-[![My Skills](https://skillicons.dev/icons?i=python,java,kotlin,flutter,cpp,dart,postgres,sqlite,firebase,androidstudio&perline=5)](https://skillicons.dev)
-
-
-
 
 ##
 ##
