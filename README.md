@@ -10,7 +10,7 @@
 ![](https://komarev.com/ghpvc/?username=jerry-523&label=PROFILE+VIEWS)
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jerry-523&bg_color=191970&color=ffffff&line=1a5fb4&point=c01c28&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)  
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jerry-523&bg_color=0000FF&color=ffffff&line=1a5fb4&point=c01c28&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)  
 
 ##  Frameworks & Languages
 [![My Skills](https://skillicons.dev/icons?i=python,java,kotlin,flutter,cpp,dart,postgres,sqlite,firebase,androidstudio&perline=5)](https://skillicons.dev)
