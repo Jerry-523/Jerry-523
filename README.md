@@ -32,10 +32,9 @@
 
 <p align="center">
   <a href="https://zbd.gg/embed/periclesborges">
-    <img width=50% src="https://tenor.com/bkD0P.gif" >
+    <img width=50% src="https://github.com/Jerry-523/Jerry-523/assets/92488227/3a2a77bc-2386-48d6-b9fb-485ad2c59029" >
   </a>
 </p>
-
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=120&section=footer"/>
 
