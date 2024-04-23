@@ -12,9 +12,7 @@
 ##  Frameworks & Languages
 [![My Skills](https://skillicons.dev/icons?i=python,java,kotlin,flutter,cpp,dart,postgres,sqlite,firebase,androidstudio&perline=5)](https://skillicons.dev)
 
-<div>
-  <iframe width="840" height="345" src="https://zbd.gg/embed/periclesborges" frameborder="0"></iframe>
-</div>
+
 
 
 ##
