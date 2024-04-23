@@ -13,11 +13,9 @@
     <img width="49%" height="195px" src="https://skillicons.dev/icons?i=python,java,kotlin,flutter,cpp,dart,postgres,sqlite,firebase,androidstudio&perline=10"/>
 </div>
 
-<div align="center">
-    
-    ![img](https://github-profile-trophy.vercel.app/?username=jerry-523&theme=tokyonight&row=2&no-bg-true&column=3&margin-h-15)
-    
-</div>
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=jerry-523&theme=tokyonight&row=2&no-bg-true&column=3&margin-h-15" >
+</p>
 
 ##
 ##
@@ -29,7 +27,7 @@
 <h3 align="center">₿ [LN⚡] ₿</h3>
 <p align="center">
   <a href="https://zbd.gg/periclesborges">
-    <img src="https://github.com/Jerry-523/Jerry-523/assets/92488227/04488877-aa2a-42d6-9cc7-b42f1623d3a3" alt="Texto Alternativo">
+    <img src="https://github.com/Jerry-523/Jerry-523/assets/92488227/04488877-aa2a-42d6-9cc7-b42f1623d3a3" >
   </a>
 </p>
 
