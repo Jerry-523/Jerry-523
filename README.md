@@ -9,7 +9,7 @@
   
 
 ##  Frameworks & Languages
-[![My Skills](https://skillicons.dev/icons?i=python,java,kotlin,flutter,cpp,dart,postgres,sqlite,firebase,androidstudio&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,kotlin,flutter,cpp,dart,postgres,sqlite,firebase,androidstudio&perline=10)](https://skillicons.dev)
 
 
 
