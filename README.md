@@ -16,5 +16,5 @@
 
 
 
-## Support ⚡
-[ ₿(Lightning Network) ☕](https://zbd.gg/embed/periclesborges)
+## Support ☕
+₿[Lightning Network ⚡](https://zbd.gg/embed/periclesborges)
