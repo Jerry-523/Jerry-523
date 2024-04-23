@@ -2,6 +2,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0000FF&size=35&center=true&vCenter=true&width=1000&lines=Hello+My+Name+is+Péricles+Borges;I+from+Cape+Verde;I'm+System+Developer;And+CTF+Player;Be+Welcome|+:%29)](https://git.io/typing-svg)
 
+<div align="center">
+    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=jerry-523&show_icons=true&theme=tokyonight&include_all_commits)](https://github.com/jerry-523/github-readme-stats"/>
+    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerry-523&show_icons=true&theme=tokyonight&layout=compact&langs_count=8)](https://github.com/jerry-523/github-readme-stats" />
+</div>
+
 ![](https://komarev.com/ghpvc/?username=jerry-523&label=PROFILE+VIEWS)
 
 [![Péricles's GitHub stats](https://github-readme-stats.vercel.app/api?username=jerry-523&show_icons=true&theme=tokyonight&include_all_commits)](https://github.com/jerry-523/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jerry-523&show_icons=true&theme=tokyonight&layout=compact&langs_count=8)](https://github.com/jerry-523/github-readme-stats)  
