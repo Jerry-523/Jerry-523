@@ -9,9 +9,8 @@
 
 
 ##  Frameworks & Languages
-<p align="center">
-[![My Skills](https://skillicons.dev/icons?i=python,java,kotlin,flutter,cpp,dart,postgres,sqlite,firebase,androidstudio&perline=10)](https://skillicons.dev)
-</p>
+[![My Skills](https://skillicons.dev/icons?i=python,java,kotlin,flutter,cpp,dart,postgres,sqlite,firebase,androidstudio&perline=10&align=center)](https://skillicons.dev)
+
 
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=jerry-523&theme=tokyonight&row=2&no-bg-true&column=3&margin-h-15" />
