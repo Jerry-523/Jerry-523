@@ -17,4 +17,4 @@
 
 
 ## Support ⚡
-[ ₿ - Pay a coffee ☕](https://zbd.gg/embed/periclesborges)
+[ ₿(Lightning Network) ☕](https://zbd.gg/embed/periclesborges)
