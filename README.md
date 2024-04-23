@@ -22,7 +22,7 @@
 
 <h1 align="center">Support ☕</h1>
 <div>
-  <img width="840" height="345" src="[https://zbd.gg/periclesborges](https://zbd.gg/img/zbd-purple.svg)"/>
+  [https://zbd.gg/periclesborges](https://zbd.gg/img/zbd-purple.svg)
 </div>
 
 ### - ₿ -> [Lightning Network ⚡](https://zbd.gg/embed/periclesborges)
