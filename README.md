@@ -29,7 +29,7 @@
 ##
 
 
-<h1 align="center">₿uy me a coffe 👇🏿</h1>
+<h1 align="center">₿uy me a coffee 👇🏿</h1>
 <p align="center">
   <a href="https://zbd.gg/embed/periclesborges">
     <img width=25% src="https://github.com/Jerry-523/Jerry-523/assets/92488227/3a2a77bc-2386-48d6-b9fb-485ad2c59029" >
