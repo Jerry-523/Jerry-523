@@ -11,7 +11,6 @@
 ##  Frameworks & Languages
 <div align="center">
     <img width="49%" height="195px" src="https://skillicons.dev/icons?i=python,java,kotlin,flutter,cpp,dart,postgres,sqlite,firebase,androidstudio&perline=10"/>
-[![My Skills](https://skillicons.dev/icons?i=python,java,kotlin,flutter,cpp,dart,postgres,sqlite,firebase,androidstudio&perline=10)](https://skillicons.dev)
 </div>
 
 <p align="center">
