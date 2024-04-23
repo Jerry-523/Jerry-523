@@ -2,6 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=B0C4DE&size=35&center=true&vCenter=true&width=1000&lines=Hello+My+Name+is+Péricles+Borges;I+from+Cape+Verde;I'm+System+Developer;And+CTF+Player;Be+Welcome|+:%29)](https://git.io/typing-svg)
 
+##
+##
+
 <div align="center">
     <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=jerry-523&show_icons=true&theme=tokyonight&layout=compact&include_all_commits)]https://github.com/jerry-523/github-readme-stats"/>
     <img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerry-523&show_icons=true&theme=tokyonight&layout=compact&langs_count=8" />
