@@ -32,7 +32,7 @@
 
 <p align="center">
   <a href="https://zbd.gg/embed/periclesborges">
-    <img width=50% src="https://github.com/Jerry-523/Jerry-523/assets/92488227/04488877-aa2a-42d6-9cc7-b42f1623d3a3" >
+    <img width=50% src="https://tenor.com/bkD0P.gif" >
   </a>
 </p>
 
