@@ -27,11 +27,11 @@
 
 
 <h3 align="center">₿ [LN⚡] ₿</h3>
-<div style="text-align:center;">
+<center>
     
 [![zbdgg](https://github.com/Jerry-523/Jerry-523/assets/92488227/04488877-aa2a-42d6-9cc7-b42f1623d3a3)](https://zbd.gg/periclesborges)
 
-</div>
+</center>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=120&section=footer"/>
 
