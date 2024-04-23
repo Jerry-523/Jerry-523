@@ -24,8 +24,8 @@
 
 
 
-<div align="center">
+<h3 align="center">
     ₿ [Lightning Network ⚡](https://zbd.gg/embed/periclesborges)
-</div>
+</h3>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=120&section=footer"/>
