@@ -24,6 +24,9 @@ Here are some ideas to get you started:
 
 [![My Skills](https://skillicons.dev/icons?i=python,java,kotlin,flutter,cpp,dart,postgres,sqlite,firebase,androidstudio&perline=5)](https://skillicons.dev)
 
-##  
+##  Badges
+![ethical-hacker](https://github.com/Jerry-523/Jerry-523/assets/92488227/2d19f2c3-1f52-4c71-ae0a-5433daf4f020)(https://www.credly.com/badges/be4125c6-d647-4456-b60f-5133a38d7111)
+
+
 
 ## [⚡   Support ☕](https://zbd.gg/embed/periclesborges)
