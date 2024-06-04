@@ -32,13 +32,12 @@
 <h1 align="center" ><a href="https://pay.blink.sv/jerrykb?amount=0&memo=&display=SAT" style="color:orange">₿</a>uy me a coffee</h1>
 <p align="center">
   <a href="https://pay.blink.sv/jerrykb?amount=0&memo=&display=SAT">
-    <img width=25% src="https://github.com/Jerry-523/Jerry-523/assets/92488227/3a2a77bc-2386-48d6-b9fb-485ad2c59029" >
+    <img width=25% src="https://github.com/Jerry-523/Jerry-523/assets/92488227/d528b9b1-6732-47bc-bdfb-adcd102360e2" >
   </a>
 </p>
 <h2 align="center">
   <a href="https://pay.blink.sv/jerrykb?amount=0&memo=&display=SAT">  Lightning Network ⚡</a>
 </h2>
-
 
 
 
