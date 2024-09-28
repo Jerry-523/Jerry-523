@@ -29,6 +29,7 @@
 ##
 
 
+<!--
 <h1 align="center" ><a href="https://pay.blink.sv/jerrykb?amount=0&memo=&display=SAT" style="color:orange">₿</a>uy me a coffee</h1>
 <p align="center">
   <a href="https://pay.blink.sv/jerrykb?amount=0&memo=&display=SAT">
@@ -38,7 +39,7 @@
 <h2 align="center">
   <a href="https://pay.blink.sv/jerrykb?amount=0&memo=&display=SAT">  Lightning Network ⚡</a>
 </h2>
-
+-->
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=120&section=footer"/>
