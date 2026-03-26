@@ -31,8 +31,7 @@
 
 
 
-    <img width=25% src="https://github.com/Jerry-523/Jerry-523/assets/92488227/d528b9b1-6732-47bc-bdfb-adcd102360e2" >
-  </a>
+   
 </p>
 
 
