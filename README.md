@@ -38,9 +38,9 @@ I enjoy building scalable applications, security tooling, offensive security lab
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=jerry-523&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Jerry-523&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerry-523&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jerry-523&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
