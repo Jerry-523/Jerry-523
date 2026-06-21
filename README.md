@@ -8,7 +8,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 Software Engineer focused on backend systems, API development, automation and cybersecurity.
 
@@ -24,7 +24,7 @@ I enjoy building scalable applications, security tooling, offensive security lab
 
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -34,7 +34,7 @@ I enjoy building scalable applications, security tooling, offensive security lab
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
@@ -46,7 +46,7 @@ I enjoy building scalable applications, security tooling, offensive security lab
 
 ---
 
-## 🔐 Security & Engineering
+## Security & Engineering
 
 <div align="center">
 
@@ -60,7 +60,7 @@ I enjoy building scalable applications, security tooling, offensive security lab
 
 ---
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 <div align="center">
 
@@ -70,7 +70,7 @@ I enjoy building scalable applications, security tooling, offensive security lab
 
 ---
 
-## 🌍 Connect With Me
+## Connect With Me
 
 <div align="center">
 
@@ -90,7 +90,7 @@ I enjoy building scalable applications, security tooling, offensive security lab
 
 ---
 
-## ⚡ Fun Fact
+## Fun Fact
 
 ```bash
 while(alive) {
